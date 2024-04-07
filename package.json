@@ -1,0 +1,16 @@
+{
+  "name": "nati-happy-birthday",
+  "version": "1.0.0",
+  "description": "Author: Lucas Antonio Ramos Sartori",
+  "main": "index.html",
+  "dependencies": {
+    "wowjs": "^1.1.3",
+    "bootstrap": "^4.0.0-alpha.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Antonio Ramos Sartori",
+  "license": "MIT"
+}
